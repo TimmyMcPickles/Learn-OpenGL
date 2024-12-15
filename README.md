@@ -6,9 +6,9 @@ Using [Learn OpenGL](https://learnopengl.com/) to learn the ropes of OpenGL
 ## Linux Build Instructions
 1. Use your distros build system to install `cmake`, `g++`, and `git` for example:
   ```
-  sudo apt-get install g++ cmake git
+  sudo apt-get install g++ cmake git make
   ```
-if you are using distros such as Ubuntu or Debian (Might add more package managers later). Also install `make` if you don't have it already.
+if you are using distros such as Ubuntu or Debian (Might add more package managers later).
 
 2. Clone the repo into whichever directory you'd like, and build:
   ```
